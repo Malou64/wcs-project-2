@@ -6,6 +6,9 @@ Marlène ANGOUILLANT
 Amine BEN TALEB
 
 
+The search bar is functional, try to search. <br>
+We recover data from Reddit, the others are dummy
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
